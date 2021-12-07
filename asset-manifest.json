@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ashok/static/css/main.d5baa514.chunk.css",
+    "main.js": "/ashok/static/js/main.64e96d2b.chunk.js",
+    "main.js.map": "/ashok/static/js/main.64e96d2b.chunk.js.map",
+    "runtime-main.js": "/ashok/static/js/runtime-main.16a71a70.js",
+    "runtime-main.js.map": "/ashok/static/js/runtime-main.16a71a70.js.map",
+    "static/js/2.390fc24a.chunk.js": "/ashok/static/js/2.390fc24a.chunk.js",
+    "static/js/2.390fc24a.chunk.js.map": "/ashok/static/js/2.390fc24a.chunk.js.map",
+    "index.html": "/ashok/index.html",
+    "static/css/main.d5baa514.chunk.css.map": "/ashok/static/css/main.d5baa514.chunk.css.map",
+    "static/js/2.390fc24a.chunk.js.LICENSE.txt": "/ashok/static/js/2.390fc24a.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/ashok/static/media/telephone2.860bb6a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a71a70.js",
+    "static/js/2.390fc24a.chunk.js",
+    "static/css/main.d5baa514.chunk.css",
+    "static/js/main.64e96d2b.chunk.js"
+  ]
+}
