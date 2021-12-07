@@ -1,0 +1,120 @@
+.front-face{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 30rem;
+    background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.front-heading{
+    font-size: 4rem;
+    padding-top: 5.5rem;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+}
+.sub-front-font{
+    font-size: 2rem;
+    padding-top: 1.5rem;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff; 
+}
+.ownername-front-face{
+    font-size: 2rem;
+    padding-top: 1.5rem;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff; 
+}
+.btn-front{
+    background-color: #0FA200;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    margin-top: 1.5rem;
+    padding-left: 3%;
+    padding-right: 3%;
+    transition: 0.4s ease-in-out;
+}
+.btn-front:hover{
+    color: #fff;
+    background-color: #10a20060;
+}
+
+
+@media screen and (max-width:1000px) {
+    .front-face{
+        height: auto;
+        padding-bottom: 6rem;
+    }
+    .front-heading{
+        font-size: 3rem;
+    }
+    .sub-front-font{
+        font-size: 1.5rem;
+    }
+    .ownername-front-face{
+        font-size: 1.3rem;
+    }
+}
+@media screen and (max-width:700px) {
+    .front-face{
+        height: auto;
+        padding-bottom: 6rem;
+    }
+    .front-heading{
+        font-size: 2.7rem;
+    }
+    .sub-front-font{
+        font-size: 1.3rem;
+    }
+    .ownername-front-face{
+        font-size: 1.2rem;
+    }
+}
+@media screen and (max-width:600px) {
+    .front-face{
+        height: auto;
+        padding-bottom: 6rem;
+    }
+    .front-heading{
+        font-size: 2.7rem;
+        width: 90%;
+    }
+    .sub-front-font{
+        font-size: 1.3rem;
+        line-height: 2rem;
+        width: 70%;
+
+    }
+    .ownername-front-face{
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .front-face{
+        height: auto;
+        padding-bottom: 4rem;
+    }
+    .front-heading{
+        font-size: 2.4rem;
+        width: 95%;
+        padding-top: 4rem;
+
+    }
+    .sub-front-font{
+        font-size: 1.2rem;
+        line-height: 2rem;
+        width: 80%;
+
+    }
+    .ownername-front-face{
+        font-size: 1rem;
+    }
+}
